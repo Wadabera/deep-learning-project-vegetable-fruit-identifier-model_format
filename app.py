@@ -3,7 +3,7 @@ from tensorflow.keras.models import load_model
 import streamlit as st
 import numpy as np 
 
-st.header('Image Classification Model')
+st.header('deep-learning-project-vegetable-fruit-identifier-model')
 
 # Load the trained model (make sure you saved it as .keras or .h5, not .ipynb)
 
