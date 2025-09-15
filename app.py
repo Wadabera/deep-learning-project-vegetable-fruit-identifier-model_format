@@ -7,7 +7,7 @@ st.header('Image Classification Model')
 
 # Load the trained model (make sure you saved it as .keras or .h5, not .ipynb)
 
-transfer_model = load_model(r"C:\Users\Baha\Downloads\Image_classification2\image_classification.keras")
+transfer_model = load_model(r"image_classification.keras")
 
 
 # Class categories
